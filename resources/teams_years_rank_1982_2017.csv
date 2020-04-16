@@ -1,0 +1,1000 @@
+,Year,Team Name,Team Abbreviation,Rank
+0,1982,Denver Nuggets,DEN,1
+1,1982,Los Angeles Lakers,LAL,2
+2,1982,San Antonio Spurs,SAS,3
+3,1982,Boston Celtics,BOS,4
+4,1982,Philadelphia 76ers,PHI,5
+5,1982,Detroit Pistons,DET,6
+6,1982,Utah Jazz,UTA,7
+7,1982,Golden State Warriors,GSW,8
+8,1982,Portland Trail Blazers,POR,9
+9,1982,San Diego Clippers,SDC,10
+10,1982,Milwaukee Bucks,MIL,11
+11,1982,Seattle SuperSonics,SEA,12
+12,1982,Kansas City Kings,KCK,13
+13,1982,New Jersey Nets,NJN,14
+14,1982,Chicago Bulls,CHI,15
+15,1982,New York Knicks,NYK,16
+16,1982,Phoenix Suns,PHO,17
+17,1982,Houston Rockets,HOU,18
+18,1982,Dallas Mavericks,DAL,19
+19,1982,Washington Bullets,WSB,20
+20,1982,Cleveland Cavaliers,CLE,21
+21,1982,Indiana Pacers,IND,22
+22,1982,Atlanta Hawks,ATL,23
+23,1983,Denver Nuggets,DEN,1
+24,1983,Los Angeles Lakers,LAL,2
+25,1983,San Antonio Spurs,SAS,3
+26,1983,Kansas City Kings,KCK,4
+27,1983,Dallas Mavericks,DAL,5
+28,1983,Detroit Pistons,DET,6
+29,1983,Boston Celtics,BOS,7
+30,1983,Philadelphia 76ers,PHI,8
+31,1983,Chicago Bulls,CHI,9
+32,1983,Seattle SuperSonics,SEA,10
+33,1983,Utah Jazz,UTA,11
+34,1983,Indiana Pacers,IND,12
+35,1983,Golden State Warriors,GSW,13
+36,1983,San Diego Clippers,SDC,14
+37,1983,Portland Trail Blazers,POR,15
+38,1983,Phoenix Suns,PHO,16
+39,1983,Milwaukee Bucks,MIL,17
+40,1983,New Jersey Nets,NJN,18
+41,1983,Atlanta Hawks,ATL,19
+42,1983,New York Knicks,NYK,20
+43,1983,Houston Rockets,HOU,21
+44,1983,Washington Bullets,WSB,22
+45,1983,Cleveland Cavaliers,CLE,23
+46,1984,Denver Nuggets,DEN,1
+47,1984,San Antonio Spurs,SAS,2
+48,1984,Detroit Pistons,DET,3
+49,1984,Los Angeles Lakers,LAL,4
+50,1984,Utah Jazz,UTA,5
+51,1984,Portland Trail Blazers,POR,6
+52,1984,Boston Celtics,BOS,7
+53,1984,Phoenix Suns,PHO,8
+54,1984,San Diego Clippers,SDC,9
+55,1984,Houston Rockets,HOU,10
+56,1984,Dallas Mavericks,DAL,11
+57,1984,Kansas City Kings,KCK,12
+58,1984,New Jersey Nets,NJN,13
+59,1984,Golden State Warriors,GSW,14
+60,1984,Seattle SuperSonics,SEA,15
+61,1984,Philadelphia 76ers,PHI,16
+62,1984,New York Knicks,NYK,17
+63,1984,Milwaukee Bucks,MIL,18
+64,1984,Indiana Pacers,IND,19
+65,1984,Chicago Bulls,CHI,20
+66,1984,Washington Bullets,WSB,21
+67,1984,Cleveland Cavaliers,CLE,22
+68,1984,Atlanta Hawks,ATL,23
+69,1985,Denver Nuggets,DEN,1
+70,1985,Los Angeles Lakers,LAL,2
+71,1985,Detroit Pistons,DET,3
+72,1985,Portland Trail Blazers,POR,4
+73,1985,Kansas City Kings,KCK,5
+74,1985,Boston Celtics,BOS,6
+75,1985,San Antonio Spurs,SAS,7
+76,1985,Philadelphia 76ers,PHI,8
+77,1985,Houston Rockets,HOU,9
+78,1985,Dallas Mavericks,DAL,10
+79,1985,Milwaukee Bucks,MIL,11
+80,1985,Golden State Warriors,GSW,12
+81,1985,New Jersey Nets,NJN,13
+82,1985,Utah Jazz,UTA,14
+83,1985,Chicago Bulls,CHI,15
+84,1985,Cleveland Cavaliers,CLE,16
+85,1985,Indiana Pacers,IND,17
+86,1985,Phoenix Suns,PHO,18
+87,1985,Los Angeles Clippers,LAC,19
+88,1985,Atlanta Hawks,ATL,20
+89,1985,Washington Bullets,WSB,21
+90,1985,New York Knicks,NYK,22
+91,1985,Seattle SuperSonics,SEA,23
+92,1986,Los Angeles Lakers,LAL,1
+93,1986,Dallas Mavericks,DAL,2
+94,1986,Portland Trail Blazers,POR,3
+95,1986,Denver Nuggets,DEN,4
+96,1986,Milwaukee Bucks,MIL,5
+97,1986,Houston Rockets,HOU,6
+98,1986,Detroit Pistons,DET,7
+99,1986,Boston Celtics,BOS,8
+100,1986,Golden State Warriors,GSW,9
+101,1986,San Antonio Spurs,SAS,10
+102,1986,Philadelphia 76ers,PHI,11
+103,1986,Phoenix Suns,PHO,12
+104,1986,Chicago Bulls,CHI,13
+105,1986,New Jersey Nets,NJN,14
+106,1986,Sacramento Kings,SAC,15
+107,1986,Los Angeles Clippers,LAC,16
+108,1986,Atlanta Hawks,ATL,17
+109,1986,Utah Jazz,UTA,18
+110,1986,Cleveland Cavaliers,CLE,19
+111,1986,Seattle SuperSonics,SEA,20
+112,1986,Indiana Pacers,IND,21
+113,1986,Washington Bullets,WSB,22
+114,1986,New York Knicks,NYK,23
+115,1987,Portland Trail Blazers,POR,1
+116,1987,Los Angeles Lakers,LAL,2
+117,1987,Denver Nuggets,DEN,3
+118,1987,Dallas Mavericks,DAL,4
+119,1987,Seattle SuperSonics,SEA,5
+120,1987,Boston Celtics,BOS,6
+121,1987,Golden State Warriors,GSW,7
+122,1987,Detroit Pistons,DET,8
+123,1987,Phoenix Suns,PHO,9
+124,1987,Sacramento Kings,SAC,10
+125,1987,Milwaukee Bucks,MIL,11
+126,1987,Atlanta Hawks,ATL,12
+127,1987,New Jersey Nets,NJN,13
+128,1987,San Antonio Spurs,SAS,14
+129,1987,Utah Jazz,UTA,15
+130,1987,Houston Rockets,HOU,16
+131,1987,Philadelphia 76ers,PHI,17
+132,1987,Indiana Pacers,IND,18
+133,1987,Washington Bullets,WSB,19
+134,1987,Chicago Bulls,CHI,20
+135,1987,Los Angeles Clippers,LAC,21
+136,1987,Cleveland Cavaliers,CLE,22
+137,1987,New York Knicks,NYK,23
+138,1988,Denver Nuggets,DEN,1
+139,1988,Portland Trail Blazers,POR,2
+140,1988,Boston Celtics,BOS,3
+141,1988,San Antonio Spurs,SAS,4
+142,1988,Los Angeles Lakers,LAL,5
+143,1988,Seattle SuperSonics,SEA,6
+144,1988,Dallas Mavericks,DAL,7
+145,1988,Detroit Pistons,DET,8
+146,1988,Houston Rockets,HOU,9
+147,1988,Phoenix Suns,PHO,10
+148,1988,Utah Jazz,UTA,11
+149,1988,Sacramento Kings,SAC,12
+150,1988,Atlanta Hawks,ATL,13
+151,1988,Golden State Warriors,GSW,14
+152,1988,Milwaukee Bucks,MIL,15
+153,1988,Philadelphia 76ers,PHI,16
+154,1988,New York Knicks,NYK,17
+155,1988,Washington Bullets,WSB,18
+156,1988,Chicago Bulls,CHI,19
+157,1988,Indiana Pacers,IND,20
+158,1988,Cleveland Cavaliers,CLE,21
+159,1988,New Jersey Nets,NJN,22
+160,1988,Los Angeles Clippers,LAC,23
+161,1989,Phoenix Suns,PHO,1
+162,1989,Denver Nuggets,DEN,2
+163,1989,New York Knicks,NYK,3
+164,1989,Golden State Warriors,GSW,4
+165,1989,Los Angeles Lakers,LAL,5
+166,1989,Portland Trail Blazers,POR,6
+167,1989,Seattle SuperSonics,SEA,7
+168,1989,Philadelphia 76ers,PHI,8
+169,1989,Atlanta Hawks,ATL,9
+170,1989,Boston Celtics,BOS,10
+171,1989,Milwaukee Bucks,MIL,11
+172,1989,Cleveland Cavaliers,CLE,12
+173,1989,Houston Rockets,HOU,13
+174,1989,Washington Bullets,WSB,14
+175,1989,Indiana Pacers,IND,15
+176,1989,Detroit Pistons,DET,16
+177,1989,Chicago Bulls,CHI,17
+178,1989,Los Angeles Clippers,LAC,18
+179,1989,San Antonio Spurs,SAS,19
+180,1989,Sacramento Kings,SAC,20
+181,1989,Utah Jazz,UTA,21
+182,1989,Charlotte Hornets,CHH,22
+183,1989,New Jersey Nets,NJN,23
+184,1989,Dallas Mavericks,DAL,24
+185,1989,Miami Heat,MIA,25
+186,1990,Golden State Warriors,GSW,1
+187,1990,Phoenix Suns,PHO,2
+188,1990,Denver Nuggets,DEN,3
+189,1990,Portland Trail Blazers,POR,4
+190,1990,Orlando Magic,ORL,5
+191,1990,Los Angeles Lakers,LAL,6
+192,1990,Philadelphia 76ers,PHI,7
+193,1990,Boston Celtics,BOS,8
+194,1990,Chicago Bulls,CHI,9
+195,1990,Indiana Pacers,IND,10
+196,1990,Atlanta Hawks,ATL,11
+197,1990,New York Knicks,NYK,12
+198,1990,Washington Bullets,WSB,13
+199,1990,Seattle SuperSonics,SEA,14
+200,1990,Utah Jazz,UTA,15
+201,1990,Houston Rockets,HOU,16
+202,1990,San Antonio Spurs,SAS,17
+203,1990,Milwaukee Bucks,MIL,18
+204,1990,Detroit Pistons,DET,19
+205,1990,Los Angeles Clippers,LAC,20
+206,1990,Cleveland Cavaliers,CLE,21
+207,1990,Dallas Mavericks,DAL,22
+208,1990,Sacramento Kings,SAC,23
+209,1990,Miami Heat,MIA,24
+210,1990,Charlotte Hornets,CHH,25
+211,1990,New Jersey Nets,NJN,26
+212,1990,Minnesota Timberwolves,MIN,27
+213,1991,Denver Nuggets,DEN,1
+214,1991,Golden State Warriors,GSW,2
+215,1991,Portland Trail Blazers,POR,3
+216,1991,Phoenix Suns,PHO,4
+217,1991,Indiana Pacers,IND,5
+218,1991,Boston Celtics,BOS,6
+219,1991,Chicago Bulls,CHI,7
+220,1991,Atlanta Hawks,ATL,8
+221,1991,San Antonio Spurs,SAS,9
+222,1991,Houston Rockets,HOU,10
+223,1991,Seattle SuperSonics,SEA,11
+224,1991,Milwaukee Bucks,MIL,12
+225,1991,Los Angeles Lakers,LAL,13
+226,1991,Orlando Magic,ORL,14
+227,1991,Philadelphia 76ers,PHI,15
+228,1991,Utah Jazz,UTA,16
+229,1991,Los Angeles Clippers,LAC,17
+230,1991,New York Knicks,NYK,18
+231,1991,New Jersey Nets,NJN,19
+232,1991,Charlotte Hornets,CHH,20
+233,1991,Miami Heat,MIA,21
+234,1991,Cleveland Cavaliers,CLE,22
+235,1991,Washington Bullets,WSB,23
+236,1991,Detroit Pistons,DET,24
+237,1991,Dallas Mavericks,DAL,25
+238,1991,Minnesota Timberwolves,MIN,26
+239,1991,Sacramento Kings,SAC,27
+240,1992,Golden State Warriors,GSW,1
+241,1992,Indiana Pacers,IND,2
+242,1992,Phoenix Suns,PHO,3
+243,1992,Portland Trail Blazers,POR,4
+244,1992,Chicago Bulls,CHI,5
+245,1992,Charlotte Hornets,CHH,6
+246,1992,Cleveland Cavaliers,CLE,7
+247,1992,Utah Jazz,UTA,8
+248,1992,Boston Celtics,BOS,9
+249,1992,Seattle SuperSonics,SEA,10
+250,1992,Atlanta Hawks,ATL,11
+251,1992,New Jersey Nets,NJN,12
+252,1992,Milwaukee Bucks,MIL,13
+253,1992,Miami Heat,MIA,14
+254,1992,Sacramento Kings,SAC,15
+255,1992,San Antonio Spurs,SAS,16
+256,1992,Los Angeles Clippers,LAC,17
+257,1992,Washington Bullets,WSB,18
+258,1992,Houston Rockets,HOU,19
+259,1992,Philadelphia 76ers,PHI,20
+260,1992,Orlando Magic,ORL,21
+261,1992,New York Knicks,NYK,22
+262,1992,Minnesota Timberwolves,MIN,23
+263,1992,Los Angeles Lakers,LAL,24
+264,1992,Denver Nuggets,DEN,25
+265,1992,Detroit Pistons,DET,26
+266,1992,Dallas Mavericks,DAL,27
+267,1993,Phoenix Suns,PHO,1
+268,1993,Charlotte Hornets,CHH,2
+269,1993,Golden State Warriors,GSW,3
+270,1993,Portland Trail Blazers,POR,4
+271,1993,Seattle SuperSonics,SEA,5
+272,1993,Sacramento Kings,SAC,6
+273,1993,Indiana Pacers,IND,7
+274,1993,Cleveland Cavaliers,CLE,8
+275,1993,Atlanta Hawks,ATL,9
+276,1993,Los Angeles Clippers,LAC,10
+277,1993,Utah Jazz,UTA,11
+278,1993,Orlando Magic,ORL,12
+279,1993,San Antonio Spurs,SAS,13
+280,1993,Denver Nuggets,DEN,14
+281,1993,Chicago Bulls,CHI,15
+282,1993,Philadelphia 76ers,PHI,16
+283,1993,Los Angeles Lakers,LAL,17
+284,1993,Houston Rockets,HOU,18
+285,1993,Boston Celtics,BOS,19
+286,1993,Miami Heat,MIA,20
+287,1993,New Jersey Nets,NJN,21
+288,1993,Milwaukee Bucks,MIL,22
+289,1993,Washington Bullets,WSB,23
+290,1993,New York Knicks,NYK,24
+291,1993,Detroit Pistons,DET,25
+292,1993,Dallas Mavericks,DAL,26
+293,1993,Minnesota Timberwolves,MIN,27
+294,1994,Phoenix Suns,PHO,1
+295,1994,Golden State Warriors,GSW,2
+296,1994,Portland Trail Blazers,POR,3
+297,1994,Charlotte Hornets,CHH,4
+298,1994,Seattle SuperSonics,SEA,5
+299,1994,Orlando Magic,ORL,6
+300,1994,Miami Heat,MIA,7
+301,1994,New Jersey Nets,NJN,8
+302,1994,Los Angeles Clippers,LAC,9
+303,1994,Utah Jazz,UTA,10
+304,1994,Atlanta Hawks,ATL,11
+305,1994,Cleveland Cavaliers,CLE,12
+306,1994,Houston Rockets,HOU,13
+307,1994,Sacramento Kings,SAC,14
+308,1994,Indiana Pacers,IND,15
+309,1994,Boston Celtics,BOS,16
+310,1994,Los Angeles Lakers,LAL,17
+311,1994,Washington Bullets,WSB,18
+312,1994,Denver Nuggets,DEN,19
+313,1994,San Antonio Spurs,SAS,20
+314,1994,New York Knicks,NYK,21
+315,1994,Philadelphia 76ers,PHI,22
+316,1994,Chicago Bulls,CHI,23
+317,1994,Milwaukee Bucks,MIL,24
+318,1994,Detroit Pistons,DET,25
+319,1994,Minnesota Timberwolves,MIN,26
+320,1994,Dallas Mavericks,DAL,27
+321,1995,Orlando Magic,ORL,1
+322,1995,Phoenix Suns,PHO,2
+323,1995,Seattle SuperSonics,SEA,3
+324,1995,San Antonio Spurs,SAS,4
+325,1995,Utah Jazz,UTA,5
+326,1995,Golden State Warriors,GSW,6
+327,1995,Los Angeles Lakers,LAL,7
+328,1995,Houston Rockets,HOU,8
+329,1995,Dallas Mavericks,DAL,9
+330,1995,Portland Trail Blazers,POR,10
+331,1995,Boston Celtics,BOS,11
+332,1995,Chicago Bulls,CHI,12
+333,1995,Denver Nuggets,DEN,13
+334,1995,Miami Heat,MIA,14
+335,1995,Charlotte Hornets,CHH,15
+336,1995,Washington Bullets,WSB,16
+337,1995,Milwaukee Bucks,MIL,17
+338,1995,Indiana Pacers,IND,18
+339,1995,Sacramento Kings,SAC,19
+340,1995,New York Knicks,NYK,20
+341,1995,Detroit Pistons,DET,21
+342,1995,New Jersey Nets,NJN,22
+343,1995,Los Angeles Clippers,LAC,23
+344,1995,Atlanta Hawks,ATL,24
+345,1995,Philadelphia 76ers,PHI,25
+346,1995,Minnesota Timberwolves,MIN,26
+347,1995,Cleveland Cavaliers,CLE,27
+348,1996,Chicago Bulls,CHI,1
+349,1996,Seattle SuperSonics,SEA,2
+350,1996,Orlando Magic,ORL,3
+351,1996,Phoenix Suns,PHO,4
+352,1996,Boston Celtics,BOS,5
+353,1996,San Antonio Spurs,SAS,6
+354,1996,Los Angeles Lakers,LAL,7
+355,1996,Charlotte Hornets,CHH,8
+356,1996,Dallas Mavericks,DAL,9
+357,1996,Washington Bullets,WSB,10
+358,1996,Houston Rockets,HOU,11
+359,1996,Utah Jazz,UTA,12
+360,1996,Golden State Warriors,GSW,13
+361,1996,Sacramento Kings,SAC,14
+362,1996,Los Angeles Clippers,LAC,15
+363,1996,Portland Trail Blazers,POR,16
+364,1996,Indiana Pacers,IND,17
+365,1996,Atlanta Hawks,ATL,18
+366,1996,Minnesota Timberwolves,MIN,19
+367,1996,Denver Nuggets,DEN,20
+368,1996,Toronto Raptors,TOR,21
+369,1996,New York Knicks,NYK,22
+370,1996,Miami Heat,MIA,23
+371,1996,Milwaukee Bucks,MIL,24
+372,1996,Detroit Pistons,DET,25
+373,1996,Philadelphia 76ers,PHI,26
+374,1996,New Jersey Nets,NJN,27
+375,1996,Cleveland Cavaliers,CLE,28
+376,1996,Vancouver Grizzlies,VAN,29
+377,1997,Chicago Bulls,CHI,1
+378,1997,Utah Jazz,UTA,2
+379,1997,Phoenix Suns,PHO,3
+380,1997,Seattle SuperSonics,SEA,4
+381,1997,Boston Celtics,BOS,5
+382,1997,Houston Rockets,HOU,6
+383,1997,Philadelphia 76ers,PHI,7
+384,1997,Los Angeles Lakers,LAL,8
+385,1997,Golden State Warriors,GSW,9
+386,1997,Washington Bullets,WSB,10
+387,1997,Portland Trail Blazers,POR,11
+388,1997,Charlotte Hornets,CHH,12
+389,1997,Denver Nuggets,DEN,13
+390,1997,New Jersey Nets,NJN,14
+391,1997,Los Angeles Clippers,LAC,15
+392,1997,Sacramento Kings,SAC,16
+393,1997,Minnesota Timberwolves,MIN,17
+394,1997,Toronto Raptors,TOR,18
+395,1997,New York Knicks,NYK,19
+396,1997,Indiana Pacers,IND,20
+397,1997,Milwaukee Bucks,MIL,21
+398,1997,Miami Heat,MIA,22
+399,1997,Atlanta Hawks,ATL,23
+400,1997,Detroit Pistons,DET,24
+401,1997,Orlando Magic,ORL,25
+402,1997,Dallas Mavericks,DAL,26
+403,1997,San Antonio Spurs,SAS,27
+404,1997,Vancouver Grizzlies,VAN,28
+405,1997,Cleveland Cavaliers,CLE,29
+406,1998,Los Angeles Lakers,LAL,1
+407,1998,Minnesota Timberwolves,MIN,2
+408,1998,Utah Jazz,UTA,3
+409,1998,Seattle SuperSonics,SEA,4
+410,1998,New Jersey Nets,NJN,5
+411,1998,Phoenix Suns,PHO,6
+412,1998,Houston Rockets,HOU,7
+413,1998,Washington Wizards,WAS,8
+414,1998,Chicago Bulls,CHI,9
+415,1998,Charlotte Hornets,CHH,10
+416,1998,Vancouver Grizzlies,VAN,11
+417,1998,Indiana Pacers,IND,12
+418,1998,Los Angeles Clippers,LAC,13
+419,1998,Boston Celtics,BOS,14
+420,1998,Atlanta Hawks,ATL,15
+421,1998,Miami Heat,MIA,16
+422,1998,Toronto Raptors,TOR,17
+423,1998,Milwaukee Bucks,MIL,18
+424,1998,Portland Trail Blazers,POR,19
+425,1998,Detroit Pistons,DET,20
+426,1998,Philadelphia 76ers,PHI,21
+427,1998,Sacramento Kings,SAC,22
+428,1998,San Antonio Spurs,SAS,23
+429,1998,Cleveland Cavaliers,CLE,24
+430,1998,New York Knicks,NYK,25
+431,1998,Dallas Mavericks,DAL,26
+432,1998,Orlando Magic,ORL,27
+433,1998,Denver Nuggets,DEN,28
+434,1998,Golden State Warriors,GSW,29
+435,1999,Sacramento Kings,SAC,1
+436,1999,Los Angeles Lakers,LAL,2
+437,1999,Phoenix Suns,PHO,3
+438,1999,Seattle SuperSonics,SEA,4
+439,1999,Portland Trail Blazers,POR,5
+440,1999,Indiana Pacers,IND,6
+441,1999,Houston Rockets,HOU,7
+442,1999,Denver Nuggets,DEN,8
+443,1999,Utah Jazz,UTA,9
+444,1999,Boston Celtics,BOS,10
+445,1999,Minnesota Timberwolves,MIN,11
+446,1999,Charlotte Hornets,CHH,12
+447,1999,San Antonio Spurs,SAS,13
+448,1999,Milwaukee Bucks,MIL,14
+449,1999,Dallas Mavericks,DAL,15
+450,1999,New Jersey Nets,NJN,16
+451,1999,Washington Wizards,WAS,17
+452,1999,Toronto Raptors,TOR,18
+453,1999,Los Angeles Clippers,LAC,19
+454,1999,Detroit Pistons,DET,20
+455,1999,Philadelphia 76ers,PHI,21
+456,1999,Orlando Magic,ORL,22
+457,1999,Miami Heat,MIA,23
+458,1999,Vancouver Grizzlies,VAN,24
+459,1999,Golden State Warriors,GSW,25
+460,1999,Cleveland Cavaliers,CLE,26
+461,1999,New York Knicks,NYK,27
+462,1999,Atlanta Hawks,ATL,28
+463,1999,Chicago Bulls,CHI,29
+464,2000,Sacramento Kings,SAC,1
+465,2000,Detroit Pistons,DET,2
+466,2000,Dallas Mavericks,DAL,3
+467,2000,Indiana Pacers,IND,4
+468,2000,Milwaukee Bucks,MIL,5
+469,2000,Los Angeles Lakers,LAL,6
+470,2000,Orlando Magic,ORL,7
+471,2000,Houston Rockets,HOU,8
+472,2000,Boston Celtics,BOS,9
+473,2000,Seattle SuperSonics,SEA,10
+474,2000,Denver Nuggets,DEN,11
+475,2000,Phoenix Suns,PHO,12
+476,2000,Minnesota Timberwolves,MIN,13
+477,2000,Charlotte Hornets,CHH,14
+478,2000,New Jersey Nets,NJN,15
+479,2000,Portland Trail Blazers,POR,16
+480,2000,Toronto Raptors,TOR,17
+481,2000,Cleveland Cavaliers,CLE,18
+482,2000,Washington Wizards,WAS,19
+483,2000,Utah Jazz,UTA,20
+484,2000,San Antonio Spurs,SAS,21
+485,2000,Golden State Warriors,GSW,22
+486,2000,Philadelphia 76ers,PHI,23
+487,2000,Miami Heat,MIA,24
+488,2000,Atlanta Hawks,ATL,25
+489,2000,Vancouver Grizzlies,VAN,26
+490,2000,New York Knicks,NYK,27
+491,2000,Los Angeles Clippers,LAC,28
+492,2000,Chicago Bulls,CHI,29
+493,2001,Sacramento Kings,SAC,1
+494,2001,Milwaukee Bucks,MIL,2
+495,2001,Los Angeles Lakers,LAL,3
+496,2001,Dallas Mavericks,DAL,4
+497,2001,Toronto Raptors,TOR,5
+498,2001,Orlando Magic,ORL,6
+499,2001,Minnesota Timberwolves,MIN,7
+500,2001,Seattle SuperSonics,SEA,8
+501,2001,Houston Rockets,HOU,9
+502,2001,Utah Jazz,UTA,10
+503,2001,Denver Nuggets,DEN,11
+504,2001,San Antonio Spurs,SAS,12
+505,2001,Detroit Pistons,DET,13
+506,2001,Portland Trail Blazers,POR,14
+507,2001,Philadelphia 76ers,PHI,15
+508,2001,Boston Celtics,BOS,16
+509,2001,Phoenix Suns,PHO,17
+510,2001,Washington Wizards,WAS,18
+511,2001,Indiana Pacers,IND,19
+512,2001,Golden State Warriors,GSW,20
+513,2001,Los Angeles Clippers,LAC,21
+514,2001,Cleveland Cavaliers,CLE,22
+515,2001,New Jersey Nets,NJN,23
+516,2001,Charlotte Hornets,CHH,24
+517,2001,Vancouver Grizzlies,VAN,25
+518,2001,Atlanta Hawks,ATL,26
+519,2001,Miami Heat,MIA,27
+520,2001,New York Knicks,NYK,28
+521,2001,Chicago Bulls,CHI,29
+522,2002,Dallas Mavericks,DAL,1
+523,2002,Sacramento Kings,SAC,2
+524,2002,Los Angeles Lakers,LAL,3
+525,2002,Orlando Magic,ORL,4
+526,2002,Minnesota Timberwolves,MIN,5
+527,2002,Seattle SuperSonics,SEA,6
+528,2002,Golden State Warriors,GSW,7
+529,2002,Milwaukee Bucks,MIL,8
+530,2002,Indiana Pacers,IND,9
+531,2002,San Antonio Spurs,SAS,10
+532,2002,Portland Trail Blazers,POR,11
+533,2002,Boston Celtics,BOS,12
+534,2002,New Jersey Nets,NJN,13
+535,2002,Utah Jazz,UTA,14
+536,2002,Los Angeles Clippers,LAC,15
+537,2002,Cleveland Cavaliers,CLE,16
+538,2002,Phoenix Suns,PHO,17
+539,2002,Detroit Pistons,DET,18
+540,2002,Atlanta Hawks,ATL,19
+541,2002,Charlotte Hornets,CHH,20
+542,2002,Washington Wizards,WAS,21
+543,2002,Houston Rockets,HOU,22
+544,2002,Denver Nuggets,DEN,23
+545,2002,New York Knicks,NYK,24
+546,2002,Toronto Raptors,TOR,25
+547,2002,Philadelphia 76ers,PHI,26
+548,2002,Memphis Grizzlies,MEM,27
+549,2002,Chicago Bulls,CHI,28
+550,2002,Miami Heat,MIA,29
+551,2003,Dallas Mavericks,DAL,1
+552,2003,Golden State Warriors,GSW,2
+553,2003,Sacramento Kings,SAC,3
+554,2003,Los Angeles Lakers,LAL,4
+555,2003,Milwaukee Bucks,MIL,5
+556,2003,Orlando Magic,ORL,6
+557,2003,Minnesota Timberwolves,MIN,7
+558,2003,Memphis Grizzlies,MEM,8
+559,2003,Philadelphia 76ers,PHI,9
+560,2003,Indiana Pacers,IND,10
+561,2003,New York Knicks,NYK,11
+562,2003,San Antonio Spurs,SAS,12
+563,2003,Phoenix Suns,PHO,13
+564,2003,New Jersey Nets,NJN,14
+565,2003,Portland Trail Blazers,POR,15
+566,2003,Chicago Bulls,CHI,16
+567,2003,Utah Jazz,UTA,17
+568,2003,Atlanta Hawks,ATL,18
+569,2003,New Orleans Hornets,NOH,19
+570,2003,Los Angeles Clippers,LAC,20
+571,2003,Houston Rockets,HOU,21
+572,2003,Boston Celtics,BOS,22
+573,2003,Seattle SuperSonics,SEA,23
+574,2003,Washington Wizards,WAS,24
+575,2003,Cleveland Cavaliers,CLE,25
+576,2003,Detroit Pistons,DET,26
+577,2003,Toronto Raptors,TOR,27
+578,2003,Miami Heat,MIA,28
+579,2003,Denver Nuggets,DEN,29
+580,2004,Dallas Mavericks,DAL,1
+581,2004,Sacramento Kings,SAC,2
+582,2004,Los Angeles Lakers,LAL,3
+583,2004,Milwaukee Bucks,MIL,4
+584,2004,Denver Nuggets,DEN,5
+585,2004,Seattle SuperSonics,SEA,6
+586,2004,Memphis Grizzlies,MEM,7
+587,2004,Boston Celtics,BOS,8
+588,2004,Los Angeles Clippers,LAC,9
+589,2004,Minnesota Timberwolves,MIN,10
+590,2004,Phoenix Suns,PHO,11
+591,2004,Orlando Magic,ORL,12
+592,2004,Golden State Warriors,GSW,13
+593,2004,Cleveland Cavaliers,CLE,14
+594,2004,Atlanta Hawks,ATL,15
+595,2004,New York Knicks,NYK,16
+596,2004,New Orleans Hornets,NOH,17
+597,2004,Washington Wizards,WAS,18
+598,2004,San Antonio Spurs,SAS,19
+599,2004,Indiana Pacers,IND,20
+600,2004,Portland Trail Blazers,POR,21
+601,2004,Miami Heat,MIA,22
+602,2004,New Jersey Nets,NJN,23
+603,2004,Detroit Pistons,DET,24
+604,2004,Houston Rockets,HOU,25
+605,2004,Chicago Bulls,CHI,26
+606,2004,Utah Jazz,UTA,27
+607,2004,Philadelphia 76ers,PHI,28
+608,2004,Toronto Raptors,TOR,29
+609,2005,Phoenix Suns,PHO,1
+610,2005,Sacramento Kings,SAC,2
+611,2005,Dallas Mavericks,DAL,3
+612,2005,Miami Heat,MIA,4
+613,2005,Boston Celtics,BOS,5
+614,2005,Washington Wizards,WAS,6
+615,2005,Toronto Raptors,TOR,7
+616,2005,Denver Nuggets,DEN,8
+617,2005,Orlando Magic,ORL,9
+618,2005,Philadelphia 76ers,PHI,10
+619,2005,Seattle SuperSonics,SEA,11
+620,2005,Los Angeles Lakers,LAL,12
+621,2005,Golden State Warriors,GSW,13
+622,2005,New York Knicks,NYK,14
+623,2005,Milwaukee Bucks,MIL,15
+624,2005,Minnesota Timberwolves,MIN,16
+625,2005,Cleveland Cavaliers,CLE,17
+626,2005,San Antonio Spurs,SAS,18
+627,2005,Los Angeles Clippers,LAC,19
+628,2005,Houston Rockets,HOU,20
+629,2005,Chicago Bulls,CHI,21
+630,2005,Charlotte Bobcats,CHA,22
+631,2005,Memphis Grizzlies,MEM,23
+632,2005,Detroit Pistons,DET,24
+633,2005,Indiana Pacers,IND,25
+634,2005,Utah Jazz,UTA,26
+635,2005,Portland Trail Blazers,POR,27
+636,2005,Atlanta Hawks,ATL,28
+637,2005,New Jersey Nets,NJN,29
+638,2005,New Orleans Hornets,NOH,30
+639,2006,Phoenix Suns,PHO,1
+640,2006,Seattle SuperSonics,SEA,2
+641,2006,Washington Wizards,WAS,3
+642,2006,Toronto Raptors,TOR,4
+643,2006,Denver Nuggets,DEN,5
+644,2006,Miami Heat,MIA,6
+645,2006,Los Angeles Lakers,LAL,7
+646,2006,Philadelphia 76ers,PHI,8
+647,2006,Dallas Mavericks,DAL,9
+648,2006,Sacramento Kings,SAC,10
+649,2006,Golden State Warriors,GSW,11
+650,2006,Boston Celtics,BOS,12
+651,2006,Milwaukee Bucks,MIL,13
+652,2006,Chicago Bulls,CHI,14
+653,2006,Cleveland Cavaliers,CLE,15
+654,2006,Atlanta Hawks,ATL,16
+655,2006,Los Angeles Clippers,LAC,17
+656,2006,Charlotte Bobcats,CHA,18
+657,2006,Detroit Pistons,DET,19
+658,2006,New York Knicks,NYK,20
+659,2006,San Antonio Spurs,SAS,21
+660,2006,Orlando Magic,ORL,22
+661,2006,Indiana Pacers,IND,23
+662,2006,New Jersey Nets,NJN,24
+663,2006,New Orleans/Oklahoma City Hornets,NOK,25
+664,2006,Utah Jazz,UTA,26
+665,2006,Memphis Grizzlies,MEM,27
+666,2006,Minnesota Timberwolves,MIN,28
+667,2006,Houston Rockets,HOU,29
+668,2006,Portland Trail Blazers,POR,30
+669,2007,Phoenix Suns,PHO,1
+670,2007,Golden State Warriors,GSW,2
+671,2007,Denver Nuggets,DEN,3
+672,2007,Washington Wizards,WAS,4
+673,2007,Los Angeles Lakers,LAL,5
+674,2007,Memphis Grizzlies,MEM,6
+675,2007,Utah Jazz,UTA,7
+676,2007,Sacramento Kings,SAC,8
+677,2007,Dallas Mavericks,DAL,9
+678,2007,Milwaukee Bucks,MIL,10
+679,2007,Toronto Raptors,TOR,11
+680,2007,Seattle SuperSonics,SEA,12
+681,2007,Chicago Bulls,CHI,13
+682,2007,San Antonio Spurs,SAS,14
+683,2007,New Jersey Nets,NJN,15
+684,2007,New York Knicks,NYK,16
+685,2007,Houston Rockets,HOU,17
+686,2007,Charlotte Bobcats,CHA,18
+687,2007,Cleveland Cavaliers,CLE,19
+688,2007,Minnesota Timberwolves,MIN,20
+689,2007,Detroit Pistons,DET,21
+690,2007,Boston Celtics,BOS,22
+691,2007,Los Angeles Clippers,LAC,23
+692,2007,Indiana Pacers,IND,24
+693,2007,New Orleans/Oklahoma City Hornets,NOK,25
+694,2007,Philadelphia 76ers,PHI,26
+695,2007,Orlando Magic,ORL,27
+696,2007,Miami Heat,MIA,28
+697,2007,Portland Trail Blazers,POR,29
+698,2007,Atlanta Hawks,ATL,30
+699,2008,Golden State Warriors,GSW,1
+700,2008,Denver Nuggets,DEN,2
+701,2008,Phoenix Suns,PHO,3
+702,2008,Los Angeles Lakers,LAL,4
+703,2008,Utah Jazz,UTA,5
+704,2008,Orlando Magic,ORL,6
+705,2008,Indiana Pacers,IND,7
+706,2008,Sacramento Kings,SAC,8
+707,2008,New Orleans Hornets,NOH,9
+708,2008,Memphis Grizzlies,MEM,10
+709,2008,Boston Celtics,BOS,11
+710,2008,Dallas Mavericks,DAL,12
+711,2008,Toronto Raptors,TOR,13
+712,2008,Washington Wizards,WAS,14
+713,2008,Atlanta Hawks,ATL,15
+714,2008,Seattle SuperSonics,SEA,16
+715,2008,Detroit Pistons,DET,17
+716,2008,Chicago Bulls,CHI,18
+717,2008,Charlotte Bobcats,CHA,19
+718,2008,Milwaukee Bucks,MIL,20
+719,2008,New York Knicks,NYK,21
+720,2008,Houston Rockets,HOU,22
+721,2008,Philadelphia 76ers,PHI,23
+722,2008,Cleveland Cavaliers,CLE,24
+723,2008,New Jersey Nets,NJN,25
+724,2008,Minnesota Timberwolves,MIN,26
+725,2008,Portland Trail Blazers,POR,27
+726,2008,San Antonio Spurs,SAS,28
+727,2008,Los Angeles Clippers,LAC,29
+728,2008,Miami Heat,MIA,30
+729,2009,Phoenix Suns,PHO,1
+730,2009,Golden State Warriors,GSW,2
+731,2009,Los Angeles Lakers,LAL,3
+732,2009,New York Knicks,NYK,4
+733,2009,Indiana Pacers,IND,5
+734,2009,Denver Nuggets,DEN,6
+735,2009,Utah Jazz,UTA,7
+736,2009,Chicago Bulls,CHI,8
+737,2009,Dallas Mavericks,DAL,9
+738,2009,Orlando Magic,ORL,10
+739,2009,Boston Celtics,BOS,11
+740,2009,Sacramento Kings,SAC,12
+741,2009,Cleveland Cavaliers,CLE,13
+742,2009,Portland Trail Blazers,POR,14
+743,2009,Milwaukee Bucks,MIL,15
+744,2009,Toronto Raptors,TOR,16
+745,2009,Houston Rockets,HOU,17
+746,2009,Miami Heat,MIA,18
+747,2009,Atlanta Hawks,ATL,19
+748,2009,New Jersey Nets,NJN,20
+749,2009,Minnesota Timberwolves,MIN,21
+750,2009,Philadelphia 76ers,PHI,22
+751,2009,San Antonio Spurs,SAS,23
+752,2009,Oklahoma City Thunder,OKC,24
+753,2009,Washington Wizards,WAS,25
+754,2009,New Orleans Hornets,NOH,26
+755,2009,Los Angeles Clippers,LAC,27
+756,2009,Detroit Pistons,DET,28
+757,2009,Memphis Grizzlies,MEM,29
+758,2009,Charlotte Bobcats,CHA,30
+759,2010,Phoenix Suns,PHO,1
+760,2010,Golden State Warriors,GSW,2
+761,2010,Denver Nuggets,DEN,3
+762,2010,Utah Jazz,UTA,4
+763,2010,Toronto Raptors,TOR,5
+764,2010,Orlando Magic,ORL,6
+765,2010,Memphis Grizzlies,MEM,7
+766,2010,Houston Rockets,HOU,8
+767,2010,New York Knicks,NYK,9
+768,2010,Cleveland Cavaliers,CLE,10
+769,2010,Dallas Mavericks,DAL,11
+770,2010,Los Angeles Lakers,LAL,12
+771,2010,Atlanta Hawks,ATL,13
+772,2010,Oklahoma City Thunder,OKC,14
+773,2010,San Antonio Spurs,SAS,15
+774,2010,Indiana Pacers,IND,16
+775,2010,New Orleans Hornets,NOH,17
+776,2010,Sacramento Kings,SAC,18
+777,2010,Boston Celtics,BOS,19
+778,2010,Minnesota Timberwolves,MIN,20
+779,2010,Portland Trail Blazers,POR,21
+780,2010,Philadelphia 76ers,PHI,22
+781,2010,Milwaukee Bucks,MIL,23
+782,2010,Chicago Bulls,CHI,24
+783,2010,Miami Heat,MIA,25
+784,2010,Washington Wizards,WAS,26
+785,2010,Los Angeles Clippers,LAC,27
+786,2010,Charlotte Bobcats,CHA,28
+787,2010,Detroit Pistons,DET,29
+788,2010,New Jersey Nets,NJN,30
+789,2011,Denver Nuggets,DEN,1
+790,2011,New York Knicks,NYK,2
+791,2011,Houston Rockets,HOU,3
+792,2011,Phoenix Suns,PHO,4
+793,2011,Oklahoma City Thunder,OKC,5
+794,2011,San Antonio Spurs,SAS,6
+795,2011,Golden State Warriors,GSW,7
+796,2011,Miami Heat,MIA,8
+797,2011,Los Angeles Lakers,LAL,9
+798,2011,Minnesota Timberwolves,MIN,10
+799,2011,Dallas Mavericks,DAL,11
+800,2011,Memphis Grizzlies,MEM,12
+801,2011,Indiana Pacers,IND,13
+802,2011,Utah Jazz,UTA,14
+803,2011,Sacramento Kings,SAC,15
+804,2011,Orlando Magic,ORL,16
+805,2011,Toronto Raptors,TOR,17
+806,2011,Philadelphia 76ers,PHI,18
+807,2011,Los Angeles Clippers,LAC,19
+808,2011,Chicago Bulls,CHI,20
+809,2011,Washington Wizards,WAS,21
+810,2011,Detroit Pistons,DET,22
+811,2011,Boston Celtics,BOS,23
+812,2011,Portland Trail Blazers,POR,24
+813,2011,Cleveland Cavaliers,CLE,25
+814,2011,Atlanta Hawks,ATL,26
+815,2011,New Orleans Hornets,NOH,27
+816,2011,New Jersey Nets,NJN,28
+817,2011,Charlotte Bobcats,CHA,29
+818,2011,Milwaukee Bucks,MIL,30
+819,2012,Denver Nuggets,DEN,1
+820,2012,San Antonio Spurs,SAS,2
+821,2012,Oklahoma City Thunder,OKC,3
+822,2012,Utah Jazz,UTA,4
+823,2012,Milwaukee Bucks,MIL,5
+824,2012,Sacramento Kings,SAC,6
+825,2012,Miami Heat,MIA,7
+826,2012,Phoenix Suns,PHO,8
+827,2012,Houston Rockets,HOU,9
+828,2012,Minnesota Timberwolves,MIN,10
+829,2012,New York Knicks,NYK,11
+830,2012,Golden State Warriors,GSW,12
+831,2012,Indiana Pacers,IND,13
+832,2012,Los Angeles Clippers,LAC,14
+833,2012,Los Angeles Lakers,LAL,15
+834,2012,Portland Trail Blazers,POR,16
+835,2012,Atlanta Hawks,ATL,17
+836,2012,Chicago Bulls,CHI,18
+837,2012,Dallas Mavericks,DAL,19
+838,2012,Memphis Grizzlies,MEM,20
+839,2012,Orlando Magic,ORL,21
+840,2012,Washington Wizards,WAS,22
+841,2012,Philadelphia 76ers,PHI,23
+842,2012,New Jersey Nets,NJN,24
+843,2012,Cleveland Cavaliers,CLE,25
+844,2012,Boston Celtics,BOS,26
+845,2012,Detroit Pistons,DET,27
+846,2012,Toronto Raptors,TOR,28
+847,2012,New Orleans Hornets,NOH,29
+848,2012,Charlotte Bobcats,CHA,30
+849,2013,Denver Nuggets,DEN,1
+850,2013,Houston Rockets,HOU,2
+851,2013,Oklahoma City Thunder,OKC,3
+852,2013,San Antonio Spurs,SAS,4
+853,2013,Miami Heat,MIA,5
+854,2013,Los Angeles Lakers,LAL,6
+855,2013,Golden State Warriors,GSW,7
+856,2013,Dallas Mavericks,DAL,8
+857,2013,Los Angeles Clippers,LAC,9
+858,2013,Sacramento Kings,SAC,10
+859,2013,New York Knicks,NYK,11
+860,2013,Milwaukee Bucks,MIL,12
+861,2013,Utah Jazz,UTA,13
+862,2013,Atlanta Hawks,ATL,14
+863,2013,Portland Trail Blazers,POR,15
+864,2013,Toronto Raptors,TOR,16
+865,2013,Brooklyn Nets,BRK,17
+866,2013,Cleveland Cavaliers,CLE,18
+867,2013,Minnesota Timberwolves,MIN,19
+868,2013,Boston Celtics,BOS,20
+869,2013,Phoenix Suns,PHO,21
+870,2013,Detroit Pistons,DET,22
+871,2013,Orlando Magic,ORL,23
+872,2013,New Orleans Hornets,NOH,24
+873,2013,Indiana Pacers,IND,25
+874,2013,Charlotte Bobcats,CHA,26
+875,2013,Memphis Grizzlies,MEM,27
+876,2013,Washington Wizards,WAS,28
+877,2013,Chicago Bulls,CHI,29
+878,2013,Philadelphia 76ers,PHI,30
+879,2014,Los Angeles Clippers,LAC,1
+880,2014,Houston Rockets,HOU,2
+881,2014,Minnesota Timberwolves,MIN,3
+882,2014,Portland Trail Blazers,POR,4
+883,2014,Oklahoma City Thunder,OKC,5
+884,2014,San Antonio Spurs,SAS,6
+885,2014,Phoenix Suns,PHO,7
+886,2014,Dallas Mavericks,DAL,8
+887,2014,Denver Nuggets,DEN,9
+888,2014,Golden State Warriors,GSW,10
+889,2014,Los Angeles Lakers,LAL,11
+890,2014,Miami Heat,MIA,12
+891,2014,Toronto Raptors,TOR,13
+892,2014,Detroit Pistons,DET,14
+893,2014,Atlanta Hawks,ATL,15
+894,2014,Washington Wizards,WAS,16
+895,2014,Sacramento Kings,SAC,17
+896,2014,New Orleans Pelicans,NOP,18
+897,2014,Philadelphia 76ers,PHI,19
+898,2014,New York Knicks,NYK,20
+899,2014,Brooklyn Nets,BRK,21
+900,2014,Cleveland Cavaliers,CLE,22
+901,2014,Charlotte Bobcats,CHA,23
+902,2014,Indiana Pacers,IND,24
+903,2014,Orlando Magic,ORL,25
+904,2014,Boston Celtics,BOS,26
+905,2014,Memphis Grizzlies,MEM,27
+906,2014,Milwaukee Bucks,MIL,28
+907,2014,Utah Jazz,UTA,29
+908,2014,Chicago Bulls,CHI,30
+909,2015,Golden State Warriors,GSW,1
+910,2015,Los Angeles Clippers,LAC,2
+911,2015,Dallas Mavericks,DAL,3
+912,2015,Toronto Raptors,TOR,4
+913,2015,Oklahoma City Thunder,OKC,5
+914,2015,Houston Rockets,HOU,6
+915,2015,San Antonio Spurs,SAS,7
+916,2015,Cleveland Cavaliers,CLE,8
+917,2015,Portland Trail Blazers,POR,9
+918,2015,Atlanta Hawks,ATL,10
+919,2015,Phoenix Suns,PHO,11
+920,2015,Denver Nuggets,DEN,12
+921,2015,Boston Celtics,BOS,13
+922,2015,Sacramento Kings,SAC,14
+923,2015,Chicago Bulls,CHI,15
+924,2015,New Orleans Pelicans,NOP,16
+925,2015,Washington Wizards,WAS,17
+926,2015,Detroit Pistons,DET,18
+927,2015,Los Angeles Lakers,LAL,19
+928,2015,Memphis Grizzlies,MEM,20
+929,2015,Brooklyn Nets,BRK,21
+930,2015,Milwaukee Bucks,MIL,22
+931,2015,Minnesota Timberwolves,MIN,23
+932,2015,Indiana Pacers,IND,24
+933,2015,Orlando Magic,ORL,25
+934,2015,Utah Jazz,UTA,26
+935,2015,Miami Heat,MIA,27
+936,2015,Charlotte Hornets,CHO,28
+937,2015,Philadelphia 76ers,PHI,29
+938,2015,New York Knicks,NYK,30
+939,2016,Golden State Warriors,GSW,1
+940,2016,Oklahoma City Thunder,OKC,2
+941,2016,Sacramento Kings,SAC,3
+942,2016,Houston Rockets,HOU,4
+943,2016,Boston Celtics,BOS,5
+944,2016,Portland Trail Blazers,POR,6
+945,2016,Los Angeles Clippers,LAC,7
+946,2016,Cleveland Cavaliers,CLE,8
+947,2016,Washington Wizards,WAS,9
+948,2016,San Antonio Spurs,SAS,10
+949,2016,Charlotte Hornets,CHO,11
+950,2016,Atlanta Hawks,ATL,12
+951,2016,New Orleans Pelicans,NOP,13
+952,2016,Toronto Raptors,TOR,14
+953,2016,Minnesota Timberwolves,MIN,15
+954,2016,Dallas Mavericks,DAL,16
+955,2016,Indiana Pacers,IND,17
+956,2016,Orlando Magic,ORL,18
+957,2016,Detroit Pistons,DET,19
+958,2016,Denver Nuggets,DEN,20
+959,2016,Chicago Bulls,CHI,21
+960,2016,Phoenix Suns,PHO,22
+961,2016,Miami Heat,MIA,23
+962,2016,Memphis Grizzlies,MEM,24
+963,2016,Milwaukee Bucks,MIL,25
+964,2016,Brooklyn Nets,BRK,26
+965,2016,New York Knicks,NYK,27
+966,2016,Utah Jazz,UTA,28
+967,2016,Philadelphia 76ers,PHI,29
+968,2016,Los Angeles Lakers,LAL,30
+969,2017,Golden State Warriors,GSW,1
+970,2017,Houston Rockets,HOU,2
+971,2017,Denver Nuggets,DEN,3
+972,2017,Cleveland Cavaliers,CLE,4
+973,2017,Washington Wizards,WAS,5
+974,2017,Los Angeles Clippers,LAC,6
+975,2017,Boston Celtics,BOS,7
+976,2017,Portland Trail Blazers,POR,8
+977,2017,Phoenix Suns,PHO,9
+978,2017,Toronto Raptors,TOR,10
+979,2017,Oklahoma City Thunder,OKC,11
+980,2017,Brooklyn Nets,BRK,12
+981,2017,Minnesota Timberwolves,MIN,13
+982,2017,San Antonio Spurs,SAS,14
+983,2017,Indiana Pacers,IND,15
+984,2017,Charlotte Hornets,CHO,16
+985,2017,Los Angeles Lakers,LAL,17
+986,2017,New Orleans Pelicans,NOP,18
+987,2017,New York Knicks,NYK,19
+988,2017,Milwaukee Bucks,MIL,20
+989,2017,Miami Heat,MIA,21
+990,2017,Atlanta Hawks,ATL,22
+991,2017,Chicago Bulls,CHI,23
+992,2017,Sacramento Kings,SAC,24
+993,2017,Philadelphia 76ers,PHI,25
+994,2017,Detroit Pistons,DET,26
+995,2017,Orlando Magic,ORL,27
+996,2017,Utah Jazz,UTA,28
+997,2017,Memphis Grizzlies,MEM,29
+998,2017,Dallas Mavericks,DAL,30
