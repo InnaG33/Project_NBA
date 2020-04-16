@@ -1,0 +1,15 @@
+Project Title: Project NBA
+
+Project Members: Jasmeet, Inna, Criselda, Jordan
+
+Project Goal: What characteristics make the ultimate NBA player?
+
+Questions:
+·     Does weight, age, height, weight/height ratio, number of years in league, team rating, number of games played effect number of wins?
+·     Does weight, age, height, weight/height ratio, number of years in league, team rating, number of games played effect number of losses?
+·     Does weight, age, height, weight/height ratio, number of years in league, team rating, number of points scored?
+·     Does weight, age, height, weight/height ratio, number of years in league, team rating, number of championships won?
+·     Does weight, age, height, weight/height ratio, number of years in league, team rating, number of rebounds?
+
+Data sources: Kaggle.com; https://sportsreference.readthedocs.io/en/stable/
+
